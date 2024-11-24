@@ -14,10 +14,8 @@ QRReview to aplikacja webowa umożliwiająca użytkownikom wystawianie opinii o 
 3. Opcja włączenia automatycznej akceptacji dla nowych opinii.
 
 ## Wymagania niefunkcjonalne
-1. **Wydajność**: Obsługa do 100 równoczesnych użytkowników.
-2. **Bezpieczeństwo**: Szyfrowanie danych użytkownika i zabezpieczenie panelu administratora.
-3. **Dostępność**: System z dostępnością 99.9%.
-4. **Responsywność**: Aplikacja dostępna na urządzenia mobilne i desktopowe.
+1. **Bezpieczeństwo**: Szyfrowanie danych użytkownika i zabezpieczenie panelu administratora.
+2. **Responsywność**: Aplikacja dostępna na urządzenia mobilne i desktopowe.
 
 ## Potencjalne ryzyka
 1. Możliwe trudności w konfiguracji zabezpieczeń aplikacji.
